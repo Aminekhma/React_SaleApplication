@@ -1,0 +1,11 @@
+{"data":
+	{"titre":"Nos bateaux partenaires",
+	"phrase":"Tout les eaux mènent à Thibault.",
+    "liste":[{"titre":"De la brise","image":"../assets/Bateaux/deLaBrise.png","logo":"../assets/logo/deLaBrise_icon.png"},
+        {"titre":"Ghast Micher","image":"../assets/Bateaux/gastMicher.png","logo":"../assets/logo/gastMicher_icon.png"},
+        {"titre":"Aquilon","image":"../assets/Bateaux/aquilon.png","logo":"../assets/logo/aquilon_icon.png"},
+        {"titre":"Saphire","image":"../assets/Bateaux/shaphire.png","logo":"../assets/logo/shaphire_icon.png"},
+        {"titre":"Contact","image":"","logo":"../assets/logo/ancre_icon.png"},
+        {"titre":"Contact","image":"","logo":"../assets/logo/ancre_icon.png"}]
+	}
+}

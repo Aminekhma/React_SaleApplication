@@ -1,0 +1,11 @@
+{"data":
+	{"titre":"Nos recettes",
+	"phrase":"Toutes les recettes du bateau de Thibault.",
+    "liste":[{"titre":"Bistrot des Gascons","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"les fous de l'île","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Bistrot Landais","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Villa 9-Trois","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Bistrot du Sommelier","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Devenez partenaire!","image":"/lien/image","logo":"/lien/logo"}]
+	}
+}

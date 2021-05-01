@@ -1,0 +1,11 @@
+{"data":
+	{"titre":"Nos recettes",
+	"phrase":"Toutes les recettes du bateau de Thibault.",
+    "liste":[{"titre":"Homard","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"St Jacques","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Bar","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Tourteau","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Recette","image":"/lien/image","logo":"/lien/logo"},
+        {"titre":"Recette","image":"/lien/image","logo":"/lien/logo"}]
+	}
+}
